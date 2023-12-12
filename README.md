@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DMChakrabarti013, an undergrad senior double majoring in economics and mathematics.
+- 👋 Hi, I’m @DMChakrabarti013, a senior double majoring in economics and mathematics.
 - 👀 I’m interested in statistical and economic analysis, particularly in exploring causal relationships between economic policies and their effects in binary treatment cases and developing time series models for continuous treatments.
 - 🌱 I’m use R for coding.
 - 💞️ I’m looking to collaborate on any projects of interest, but I prefer settings in economics and finance, both theoretical an applied.
