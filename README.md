@@ -1,4 +1,4 @@
-Currently procrastinating. Aspire to procrastinate more
+Currently sleeping. Aspire to sleep more
 
 <!---
 DMChakrabarti013/DMChakrabarti013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
